@@ -1,0 +1,4 @@
+baseURL = "http://bullseyebakingnc.com/"
+languageCode = "en-us"
+title = "Bullseye Baking"
+theme = "ovenfresh"
