@@ -1,4 +1,7 @@
-baseURL = "http://bullseyebakingnc.com/"
+baseURL = "https://bullseyebakingnc.com/"
 languageCode = "en-us"
 title = "Bullseye Baking"
 theme = "ovenfresh"
+
+[outputs]
+home = [ "HTML", "AMP"]
