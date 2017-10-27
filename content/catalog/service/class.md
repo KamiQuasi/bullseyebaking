@@ -1,9 +1,9 @@
 +++
-categories = []
+categories = ["services"]
 date = "2017-06-17T19:54:01-04:00"
 draft = true
 slug = ""
-tags = []
+tags = ["education","learning","group"]
 title = "Cookie Decorating Birthday Party"
 
 +++

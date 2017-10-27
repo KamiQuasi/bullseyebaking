@@ -5,3 +5,10 @@ theme = "ovenfresh"
 
 [outputs]
 home = [ "HTML", "AMP"]
+
+[taxonomies]
+    tag = "tags"
+    category = "categories"
+    series = "series"
+    theme = "themes"
+    ingredient = "ingredients"
