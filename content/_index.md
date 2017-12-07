@@ -2,17 +2,14 @@
 date = "2017-06-15T22:16:33-04:00"
 title = "Home"
 description = "Bullseye Baking Home Page"
-tags = []
+tags = ["page"]
+categories = ["page"]
+rank = 0
 +++
 
-About Us
-========
-
-![Dary Family](/img/dary_family.jpg "Dary Family - Heroes")Baker, Cori Dary, has always had a passion for baked goods. Whether breads, pies, cookies, pizzas, or just about anything else she just loves to bake. She has made an assortment of baked goods for events like baby showers, bridal showers, birthday parties, holidays celebrations, and just because for her family to enjoy. Contact, Cori using your preferred method below to check availability and place an order.
-
-* [Email](mailto:cori@bullseyebakingnc.com)
-* [Facebook](https://www.facebook.com/pg/bullseyebaking/) or [Instagram](https://www.instagram.com/bullseyebaking/) direct message
-* Call [919-589-6836](tel:+19195896836) 
+Holiday Boxes
+==============
+![Gingerbread decorating kit](/img/gbreadkit.jpg " "Gingerbread decorating kit")Hi friends! This Christmas season I’m offering a gingerbread men decorating kit so that you can enjoy decorating cookies with family and friends without all the prep work and clean up. And these cookies will taste a whole lot better than the kit you’d buy at the grocery or craft store. Included in your box: baked gingerbread men, ready-to-use white royal icing, decorating instructions/tips, candy decorations, and delivery (within Durham). $30/dozen cookies, $20/half dozen. Email me at cori@bullseyebakingnc.com if interested. Customization is available.
 
 
 
