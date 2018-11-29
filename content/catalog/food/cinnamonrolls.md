@@ -5,6 +5,7 @@ date = 2018-02-25T16:31:12-05:00
 slug = ""
 tags = []
 categories = ["catalog"]
+categories_weight = 2
 themes = []
 ingredients = []
 draft = true
