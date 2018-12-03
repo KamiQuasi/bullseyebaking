@@ -6,12 +6,8 @@ slug = ""
 tags = []
 categories = ["catalog"]
 categories_weight = 3
-themes = []
-ingredients = []
+weight = 3
 draft = true
 +++
 
-Croissants
-==========
-
-More information coming soon.
+Details coming soon.

@@ -6,12 +6,8 @@ slug = ""
 tags = []
 categories = ["catalog"]
 categories_weight = 5
-themes = []
-ingredients = []
+weight = 5
 draft = true
 +++
 
-Breads
-==========
-
-More information coming soon.
+Details coming soon.

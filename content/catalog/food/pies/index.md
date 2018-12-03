@@ -6,12 +6,8 @@ slug = ""
 tags = []
 categories = ["catalog"]
 categories_weight = 1
-themes = []
-ingredients = []
+weight = 1
 draft = true
 +++
 
-Pies
-====
-
-More details coming soon.
+Details coming soon.

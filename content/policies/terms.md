@@ -9,8 +9,6 @@ categories_weight = 10
 draft = true
 +++
 
-# Terms and Conditions
-
 These terms and conditions outline the rules and regulations for the use of Bullseye Baking's Website.  
 	
 By accessing this website we assume you accept these terms and conditions in full. Do not continue to use Bullseye Baking's website if you do not accept all of the terms and conditions stated on this page.

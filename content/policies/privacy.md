@@ -9,7 +9,6 @@ categories_weight = 10
 draft = true
 +++
 
-# Privacy Policy
 Effective date: December 01, 2018
 
 Bullseye Baking ("us", "we", or "our") operates the https://bullseyebakingnc.com website (the "Service").

@@ -23,7 +23,7 @@ Cinnamon Rolls
 - Pick-up and delivery **December 21st through December 24th**
 
 Stocking Stuffers
-==================
+-----------------
 These small bags of miniature cookies taste and look great. They are a great addition to anyone's stocking, a teacher's gift, or treats for your co-workers.
 - Includes three decorated miniature cookies
 - Sealed in a clear plastic sleeve

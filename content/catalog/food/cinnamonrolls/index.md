@@ -6,14 +6,9 @@ slug = ""
 tags = []
 categories = ["catalog"]
 categories_weight = 2
-themes = []
-ingredients = []
-features = ["home"]
+weight = 2
 draft = true
 +++
-
-Cinnamon Rolls
-==============
 
 1 pan (8 rolls) - $10
 

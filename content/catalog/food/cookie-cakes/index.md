@@ -6,12 +6,8 @@ slug = ""
 tags = []
 categories = ["catalog"]
 categories_weight = 4
-themes = []
-ingredients = []
+weight = 4
 draft = true
 +++
-
-Cookie Cakes
-============
 
 More details coming soon.
