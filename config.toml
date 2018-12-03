@@ -1,14 +1,7 @@
 baseURL = "https://bullseyebakingnc.com/"
 languageCode = "en-us"
 title = "Bullseye Baking"
-theme = "ovenfresh"
+theme = "bullseyebaking"
 
 [outputs]
 home = [ "HTML", "AMP"]
-
-[taxonomies]
-    tag = "tags"
-    category = "categories"
-    series = "series"
-    theme = "themes"
-    ingredient = "ingredients"

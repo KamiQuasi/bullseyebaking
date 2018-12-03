@@ -14,4 +14,4 @@ draft = true
 Pies
 ====
 
-![Pies](/img/pies.jpg " "Pies") More details coming soon.
+More details coming soon.

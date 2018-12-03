@@ -8,13 +8,12 @@ categories = ["catalog"]
 categories_weight = 2
 themes = []
 ingredients = []
+features = ["home"]
 draft = true
 +++
 
 Cinnamon Rolls
 ==============
-
-![Cinnamon Rolls](/img/cinnamonrolls.jpg " "Cinnamon Rolls")
 
 1 pan (8 rolls) - $10
 

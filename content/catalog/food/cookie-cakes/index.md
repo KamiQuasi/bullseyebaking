@@ -14,4 +14,4 @@ draft = true
 Cookie Cakes
 ============
 
-![Cookie Cakes](/img/cookie-cakes.jpg " "Cookie Cakes") More details coming soon.
+More details coming soon.
