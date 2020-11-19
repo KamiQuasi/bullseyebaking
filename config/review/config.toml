@@ -1,0 +1,11 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "Bullseye Baking"
+theme = "bullseyebaking"
+canonifyURLs = true
+
+[outputs]
+home = [ "HTML" ]
+
+[imaging]
+quality = 75

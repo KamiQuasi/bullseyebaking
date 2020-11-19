@@ -12,8 +12,8 @@ Holiday Updates
 
 Deadlines
 ----------
-- All Christmas orders must be submitted by **Saturday, December 15th** for delivery or pick-up.
-- Orders must be placed at least **10 days in advance** 
+- All Christmas orders must be submitted by **Saturday, December 12th** for delivery or pick-up.
+- Orders must be placed at least **10 days in advance** of desired pick-up or delivery 
 - Capacity is limited, so order sooner rather than later
 - Delivery or Pick-up will be available until **December 24th at 10:00am**
 
@@ -22,13 +22,13 @@ Cinnamon Rolls
 - Delicious cinnamon rolls will be available for pre-Christmas enjoyment
 - Pick-up and delivery **December 21st through December 24th**
 
-Stocking Stuffers
+<!-- Stocking Stuffers
 -----------------
 These small bags of miniature cookies taste and look great. They are a great addition to anyone's stocking, a teacher's gift, or treats for your co-workers.
 - Includes three decorated miniature cookies
 - Sealed in a clear plastic sleeve
 - $3 per sleeve or 4 sleeves for $10
-
+-->
 Seasonal Pies
 -------------
 - Cranberry

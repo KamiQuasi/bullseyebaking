@@ -1,0 +1,10 @@
+name = "bullseyebakingnc"
+type = "webpack"
+zone_id = "22459d408943579aa17c1aca86e0387e"
+account_id = "2b683141b95aa57904fdc9c6fffcad78"
+route = "bullseyebakingnc.com/*"
+workers_dev = false
+
+[site]
+bucket = "./public"
+entry-point = "workers-site"
