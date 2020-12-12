@@ -7,6 +7,23 @@ categories = ["page"]
 categories_weight = 1
 +++
 
+Jam Thumbprint Cookies
+======================
+
+Fill out this [Order Form](https://bullseyebaking.wufoo.com/forms/jam-thumbprint-cup-order-form) to get your
+jam thumbprint cookie cups.
+
+{{< img "img/jam-thumbprint-cookies.jpg" "Jam thumbprint cookies wrapped in a decorative cup" >}}
+
+Gingerbread Decorating Kits
+===========================
+
+Fill out this [Order Form](https://bullseyebaking.wufoo.com/forms/gingerbread-men-decorating-kit/) to get your
+gingerbread decorating kits.
+
+{{< img "img/gingerbread-decorating-kit.jpg" "Gingerbread cookies, icing bags, and assorted candies" >}}
+
+
 Holiday Updates
 ===============
 
