@@ -7,23 +7,16 @@ categories = ["page"]
 categories_weight = 1
 +++
 
-Jam Thumbprint Cookies
-======================
+Ordering Available
+==================
 
-Fill out this [Order Form](https://bullseyebaking.wufoo.com/forms/jam-thumbprint-cup-order-form) to get your
-jam thumbprint cookie cups.
+* [Valentine's Day Paint-Your-Own-Cookie Order Form](https://bullseyebaking.wufoo.com/forms/paint-your-own-cookie/) 
+* [Valentine's Day Heart Decorating Kit Order Form](https://bullseyebaking.wufoo.com/forms/valentines-day-cookie-decorating-kit/)
 
-{{< img "img/jam-thumbprint-cookies.jpg" "Jam thumbprint cookies wrapped in a decorative cup" >}}
+{{< img "img/cookie_painting.jpg" "Collage of three paint-your-own-cookies: penguin, heart, donut. Also the bagged kit. " >}}
+{{< img "img/valentines-decorating-kit.jpg" "Icing bags and undecorated heart cookies in different flavors" >}}
 
-Gingerbread Decorating Kits
-===========================
-
-Fill out this [Order Form](https://bullseyebaking.wufoo.com/forms/gingerbread-men-decorating-kit/) to get your
-gingerbread decorating kits.
-
-{{< img "img/gingerbread-decorating-kit.jpg" "Gingerbread cookies, icing bags, and assorted candies" >}}
-
-
+<!-- 
 Holiday Updates
 ===============
 
@@ -37,7 +30,7 @@ Deadlines
 Cinnamon Rolls
 --------------
 - Delicious cinnamon rolls will be available for pre-Christmas enjoyment
-- Pick-up and delivery **December 21st through December 24th**
+- Pick-up and delivery **December 21st through December 24th** -->
 
 <!-- Stocking Stuffers
 -----------------
@@ -46,7 +39,7 @@ These small bags of miniature cookies taste and look great. They are a great add
 - Sealed in a clear plastic sleeve
 - $3 per sleeve or 4 sleeves for $10
 -->
-Seasonal Pies
+<!-- Seasonal Pies
 -------------
 - Cranberry
 - Pecan
@@ -63,4 +56,5 @@ Christmas Cookie Flavors
 - Vanilla
 - Ginger Molasses
 - Chocolate with either original or mint-flavored royal icing
+ -->
 
