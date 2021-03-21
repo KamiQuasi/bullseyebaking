@@ -11,8 +11,10 @@ Ordering Available
 ==================
 
 * [Easter Cinnamon Roll Order Form](http://bit.ly/easter-cinnamonrolls)
+* [Easter Decorating Kit Order Form](http://bit.ly/eastercookiekit)
 
 {{< img "img/cinnamon-roll-pan.jpg" "Pan of cinnamon rolls with icing. " >}}
+{{< img "img/easter-decorating-kit.jpg" "Undecorated sugar cookies in the shape of flowers, bunnies, and small carrots. Also bags of assorted colors of icing." >}} 
 
 <!-- 
 Holiday Updates
