@@ -10,11 +10,9 @@ categories_weight = 1
 Ordering Available
 ==================
 
-* [Valentine's Day Paint-Your-Own-Cookie Order Form](https://bullseyebaking.wufoo.com/forms/paint-your-own-cookie/) 
-* [Valentine's Day Heart Decorating Kit Order Form](https://bullseyebaking.wufoo.com/forms/valentines-day-cookie-decorating-kit/)
+* [Easter Cinnamon Roll Order Form](http://bit.ly/easter-cinnamonrolls)
 
-{{< img "img/cookie_painting.jpg" "Collage of three paint-your-own-cookies: penguin, heart, donut. Also the bagged kit. " >}}
-{{< img "img/valentines-decorating-kit.jpg" "Icing bags and undecorated heart cookies in different flavors" >}}
+{{< img "img/cinnamon-roll-pan.jpg" "Pan of cinnamon rolls with icing. " >}}
 
 <!-- 
 Holiday Updates
